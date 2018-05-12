@@ -1,0 +1,30 @@
+_repo: Highway-Piratesor-The-Secret-Place-at-Coverthorne_33680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Avery, Harold
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '3270'
+    url: http://www.gutenberg.org/2009/agents/3270
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Avery
+description: ''
+gutenberg_issued: '2010-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Smugglers -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+title: Highway Pirates; or, The Secret Place at Coverthorne
+url: http://www.gutenberg.org/ebooks/33680
